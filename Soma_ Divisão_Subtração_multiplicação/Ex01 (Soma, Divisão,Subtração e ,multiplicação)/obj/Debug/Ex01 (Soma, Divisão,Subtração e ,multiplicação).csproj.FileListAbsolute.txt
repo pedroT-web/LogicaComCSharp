@@ -1,0 +1,7 @@
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\Ex01 (Soma, Divisão,Subtração e ,multiplicação)\Ex01 (Soma, Divisão,Subtração e ,multiplicação)\bin\Debug\Ex01 (Soma, Divisão,Subtração e ,multiplicação).exe.config
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\Ex01 (Soma, Divisão,Subtração e ,multiplicação)\Ex01 (Soma, Divisão,Subtração e ,multiplicação)\bin\Debug\Ex01 (Soma, Divisão,Subtração e ,multiplicação).exe
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\Ex01 (Soma, Divisão,Subtração e ,multiplicação)\Ex01 (Soma, Divisão,Subtração e ,multiplicação)\bin\Debug\Ex01 (Soma, Divisão,Subtração e ,multiplicação).pdb
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\Ex01 (Soma, Divisão,Subtração e ,multiplicação)\Ex01 (Soma, Divisão,Subtração e ,multiplicação)\obj\Debug\Ex01 (Soma, Divisão,Subtração e ,multiplicação).csproj.AssemblyReference.cache
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\Ex01 (Soma, Divisão,Subtração e ,multiplicação)\Ex01 (Soma, Divisão,Subtração e ,multiplicação)\obj\Debug\Ex01 (Soma, Divisão,Subtração e ,multiplicação).csproj.CoreCompileInputs.cache
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\Ex01 (Soma, Divisão,Subtração e ,multiplicação)\Ex01 (Soma, Divisão,Subtração e ,multiplicação)\obj\Debug\Ex01 (Soma, Divisão,Subtração e ,multiplicação).exe
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\Ex01 (Soma, Divisão,Subtração e ,multiplicação)\Ex01 (Soma, Divisão,Subtração e ,multiplicação)\obj\Debug\Ex01 (Soma, Divisão,Subtração e ,multiplicação).pdb
