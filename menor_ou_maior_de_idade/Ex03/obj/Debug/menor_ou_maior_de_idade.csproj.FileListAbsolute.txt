@@ -1,0 +1,7 @@
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\menor_ou_maior_de_idade\menor_ou_maior_de_idade\bin\Debug\menor_ou_maior_de_idade.exe.config
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\menor_ou_maior_de_idade\menor_ou_maior_de_idade\bin\Debug\menor_ou_maior_de_idade.exe
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\menor_ou_maior_de_idade\menor_ou_maior_de_idade\bin\Debug\menor_ou_maior_de_idade.pdb
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\menor_ou_maior_de_idade\menor_ou_maior_de_idade\obj\Debug\menor_ou_maior_de_idade.csproj.AssemblyReference.cache
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\menor_ou_maior_de_idade\menor_ou_maior_de_idade\obj\Debug\menor_ou_maior_de_idade.csproj.CoreCompileInputs.cache
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\menor_ou_maior_de_idade\menor_ou_maior_de_idade\obj\Debug\menor_ou_maior_de_idade.exe
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\menor_ou_maior_de_idade\menor_ou_maior_de_idade\obj\Debug\menor_ou_maior_de_idade.pdb
