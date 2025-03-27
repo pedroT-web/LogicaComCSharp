@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{9F71E839-474C-4B4F-AA06-D319F26290F6}</ProjectGuid>
+    <ProjectGuid>{32F2CE24-E6CD-42DF-BEC5-AC6F7BA4AAAC}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>menor_e_qual_o_maior_valor_de_dois_números</RootNamespace>
-    <AssemblyName>menor_e_qual_o_maior_valor_de_dois_números</AssemblyName>
+    <RootNamespace>somente_os_números_pares_de_1_a_100_While</RootNamespace>
+    <AssemblyName>somente_os_números_pares_de_1_a_100_While</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

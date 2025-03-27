@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pedro.atsantos2\\source\\repos\\LogicaComCSharp\\somente_os_n\u00FAmeros_pares_de_1_a_100_While\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{32F2CE24-E6CD-42DF-BEC5-AC6F7BA4AAAC}|somente_os_n\u00FAmeros_pares_de_1_a_100_While\\somente_os_n\u00FAmeros_pares_de_1_a_100_While.csproj|c:\\users\\pedro.atsantos2\\source\\repos\\logicacomcsharp\\somente_os_n\u00FAmeros_pares_de_1_a_100_while\\somente_os_n\u00FAmeros_pares_de_1_a_100_while\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32F2CE24-E6CD-42DF-BEC5-AC6F7BA4AAAC}|somente_os_n\u00FAmeros_pares_de_1_a_100_While\\somente_os_n\u00FAmeros_pares_de_1_a_100_While.csproj|solutionrelative:somente_os_n\u00FAmeros_pares_de_1_a_100_while\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pedro.atsantos2\\source\\repos\\LogicaComCSharp\\somente_os_n\u00FAmeros_pares_de_1_a_100_While\\somente_os_n\u00FAmeros_pares_de_1_a_100_While\\Program.cs",
+              "RelativeDocumentMoniker": "somente_os_n\u00FAmeros_pares_de_1_a_100_While\\Program.cs",
+              "ToolTip": "C:\\Users\\pedro.atsantos2\\source\\repos\\LogicaComCSharp\\somente_os_n\u00FAmeros_pares_de_1_a_100_While\\somente_os_n\u00FAmeros_pares_de_1_a_100_While\\Program.cs*",
+              "RelativeToolTip": "somente_os_n\u00FAmeros_pares_de_1_a_100_While\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T12:29:38.831Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

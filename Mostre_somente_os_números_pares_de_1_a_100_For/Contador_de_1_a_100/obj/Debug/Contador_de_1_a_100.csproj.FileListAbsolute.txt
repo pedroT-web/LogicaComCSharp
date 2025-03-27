@@ -1,0 +1,7 @@
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\Mostre_somente_os_números_pares_de_1_a-100\Contador_de_1_a_100\bin\Debug\Contador_de_1_a_100.exe.config
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\Mostre_somente_os_números_pares_de_1_a-100\Contador_de_1_a_100\bin\Debug\Contador_de_1_a_100.exe
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\Mostre_somente_os_números_pares_de_1_a-100\Contador_de_1_a_100\bin\Debug\Contador_de_1_a_100.pdb
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\Mostre_somente_os_números_pares_de_1_a-100\Contador_de_1_a_100\obj\Debug\Contador_de_1_a_100.csproj.AssemblyReference.cache
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\Mostre_somente_os_números_pares_de_1_a-100\Contador_de_1_a_100\obj\Debug\Contador_de_1_a_100.csproj.CoreCompileInputs.cache
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\Mostre_somente_os_números_pares_de_1_a-100\Contador_de_1_a_100\obj\Debug\Contador_de_1_a_100.exe
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\Mostre_somente_os_números_pares_de_1_a-100\Contador_de_1_a_100\obj\Debug\Contador_de_1_a_100.pdb
