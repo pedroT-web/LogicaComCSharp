@@ -8,6 +8,8 @@ namespace Ex01__Soma__Divisão_Subtração_e__multiplicação_
 {
     internal class Program
     {
+        //Crie um programa que solicite dois números ao usuário e exiba a soma, subtração, multiplicação e divisão desses números.
+        
         static void Main(string[] args)
         {
             double numero1, numero2, subtracao, soma, divisao, multiplicacao;
