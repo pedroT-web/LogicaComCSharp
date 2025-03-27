@@ -1,0 +1,5 @@
+﻿A construção começou em 08:53...
+1>------ Compilação iniciada: Projeto: compreendido_entre_20_e_90_ou_não, Configuração: Debug Any CPU ------
+1>  compreendido_entre_20_e_90_ou_não -> C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\compreendido_entre_20_e_90_ou_não\compreendido_entre_20_e_90_ou_não\bin\Debug\compreendido_entre_20_e_90_ou_não.exe
+========== Compilação: 1 bem-sucedida, 0 com falha, 0 atualizada, 0 ignorada ==========
+========== Compilação concluído às 08:53 e levou 00,327 segundos ==========
