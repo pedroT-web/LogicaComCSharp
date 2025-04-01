@@ -1,0 +1,7 @@
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\Ex16 Posição_de_um_número\Ex16 Posição_de_um_número\Ex16 Posição_de_um_número\Ex16 Posição_de_um_número\bin\Debug\Ex16 Posição_de_um_número.exe.config
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\Ex16 Posição_de_um_número\Ex16 Posição_de_um_número\Ex16 Posição_de_um_número\Ex16 Posição_de_um_número\bin\Debug\Ex16 Posição_de_um_número.exe
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\Ex16 Posição_de_um_número\Ex16 Posição_de_um_número\Ex16 Posição_de_um_número\Ex16 Posição_de_um_número\bin\Debug\Ex16 Posição_de_um_número.pdb
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\Ex16 Posição_de_um_número\Ex16 Posição_de_um_número\Ex16 Posição_de_um_número\Ex16 Posição_de_um_número\obj\Debug\Ex16 Posição_de_um_número.csproj.AssemblyReference.cache
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\Ex16 Posição_de_um_número\Ex16 Posição_de_um_número\Ex16 Posição_de_um_número\Ex16 Posição_de_um_número\obj\Debug\Ex16 Posição_de_um_número.csproj.CoreCompileInputs.cache
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\Ex16 Posição_de_um_número\Ex16 Posição_de_um_número\Ex16 Posição_de_um_número\Ex16 Posição_de_um_número\obj\Debug\Ex16 Posição_de_um_número.exe
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\Ex16 Posição_de_um_número\Ex16 Posição_de_um_número\Ex16 Posição_de_um_número\Ex16 Posição_de_um_número\obj\Debug\Ex16 Posição_de_um_número.pdb

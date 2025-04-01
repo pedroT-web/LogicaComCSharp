@@ -1,0 +1,7 @@
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\LogicaComCSharp\Ex repetição\Ex04\Ex04 para_cadastrar_o_controle_While\Ex04 para_cadastrar_o_controle_While\bin\Debug\Ex04 para_cadastrar_o_controle_While.exe.config
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\LogicaComCSharp\Ex repetição\Ex04\Ex04 para_cadastrar_o_controle_While\Ex04 para_cadastrar_o_controle_While\bin\Debug\Ex04 para_cadastrar_o_controle_While.exe
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\LogicaComCSharp\Ex repetição\Ex04\Ex04 para_cadastrar_o_controle_While\Ex04 para_cadastrar_o_controle_While\bin\Debug\Ex04 para_cadastrar_o_controle_While.pdb
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\LogicaComCSharp\Ex repetição\Ex04\Ex04 para_cadastrar_o_controle_While\Ex04 para_cadastrar_o_controle_While\obj\Debug\Ex04 para_cadastrar_o_controle_While.csproj.AssemblyReference.cache
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\LogicaComCSharp\Ex repetição\Ex04\Ex04 para_cadastrar_o_controle_While\Ex04 para_cadastrar_o_controle_While\obj\Debug\Ex04 para_cadastrar_o_controle_While.csproj.CoreCompileInputs.cache
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\LogicaComCSharp\Ex repetição\Ex04\Ex04 para_cadastrar_o_controle_While\Ex04 para_cadastrar_o_controle_While\obj\Debug\Ex04 para_cadastrar_o_controle_While.exe
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\LogicaComCSharp\Ex repetição\Ex04\Ex04 para_cadastrar_o_controle_While\Ex04 para_cadastrar_o_controle_While\obj\Debug\Ex04 para_cadastrar_o_controle_While.pdb

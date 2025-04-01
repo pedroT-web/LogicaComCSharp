@@ -1,0 +1,7 @@
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\LogicaComCSharp\18 ex De decisão\Ex18 Classificação_de_temperatura\Ex18 Classificação_de_temperatura\bin\Debug\Ex18 Classificação_de_temperatura.exe.config
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\LogicaComCSharp\18 ex De decisão\Ex18 Classificação_de_temperatura\Ex18 Classificação_de_temperatura\bin\Debug\Ex18 Classificação_de_temperatura.exe
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\LogicaComCSharp\18 ex De decisão\Ex18 Classificação_de_temperatura\Ex18 Classificação_de_temperatura\bin\Debug\Ex18 Classificação_de_temperatura.pdb
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\LogicaComCSharp\18 ex De decisão\Ex18 Classificação_de_temperatura\Ex18 Classificação_de_temperatura\obj\Debug\Ex18 Classificação_de_temperatura.csproj.AssemblyReference.cache
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\LogicaComCSharp\18 ex De decisão\Ex18 Classificação_de_temperatura\Ex18 Classificação_de_temperatura\obj\Debug\Ex18 Classificação_de_temperatura.csproj.CoreCompileInputs.cache
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\LogicaComCSharp\18 ex De decisão\Ex18 Classificação_de_temperatura\Ex18 Classificação_de_temperatura\obj\Debug\Ex18 Classificação_de_temperatura.exe
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\LogicaComCSharp\18 ex De decisão\Ex18 Classificação_de_temperatura\Ex18 Classificação_de_temperatura\obj\Debug\Ex18 Classificação_de_temperatura.pdb

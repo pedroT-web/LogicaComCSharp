@@ -1,0 +1,7 @@
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\classe_eleitoral\classe_eleitoral\bin\Debug\classe_eleitoral.exe.config
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\classe_eleitoral\classe_eleitoral\bin\Debug\classe_eleitoral.exe
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\classe_eleitoral\classe_eleitoral\bin\Debug\classe_eleitoral.pdb
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\classe_eleitoral\classe_eleitoral\obj\Debug\classe_eleitoral.csproj.AssemblyReference.cache
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\classe_eleitoral\classe_eleitoral\obj\Debug\classe_eleitoral.csproj.CoreCompileInputs.cache
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\classe_eleitoral\classe_eleitoral\obj\Debug\classe_eleitoral.exe
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\classe_eleitoral\classe_eleitoral\obj\Debug\classe_eleitoral.pdb

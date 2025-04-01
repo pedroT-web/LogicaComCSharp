@@ -1,0 +1,7 @@
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\Ex02_Cotó_na_Perna\Ex02_Cotó_na_Perna\bin\Debug\Ex02_Cotó_na_Perna.exe.config
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\Ex02_Cotó_na_Perna\Ex02_Cotó_na_Perna\bin\Debug\Ex02_Cotó_na_Perna.exe
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\Ex02_Cotó_na_Perna\Ex02_Cotó_na_Perna\bin\Debug\Ex02_Cotó_na_Perna.pdb
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\Ex02_Cotó_na_Perna\Ex02_Cotó_na_Perna\obj\Debug\Ex02_Cotó_na_Perna.csproj.AssemblyReference.cache
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\Ex02_Cotó_na_Perna\Ex02_Cotó_na_Perna\obj\Debug\Ex02_Cotó_na_Perna.csproj.CoreCompileInputs.cache
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\Ex02_Cotó_na_Perna\Ex02_Cotó_na_Perna\obj\Debug\Ex02_Cotó_na_Perna.exe
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\Ex02_Cotó_na_Perna\Ex02_Cotó_na_Perna\obj\Debug\Ex02_Cotó_na_Perna.pdb

@@ -1,0 +1,7 @@
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\Ex11 Dia_da_semana\Ex11 Dia_da_semana\obj\Debug\Ex11 Dia_da_semana.csproj.AssemblyReference.cache
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\Ex11 Dia_da_semana\Ex11 Dia_da_semana\obj\Debug\Ex11 Dia_da_semana.csproj.CoreCompileInputs.cache
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\Ex11 Dia_da_semana\Ex11 Dia_da_semana\bin\Debug\Ex11 Dia_da_semana.exe.config
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\Ex11 Dia_da_semana\Ex11 Dia_da_semana\bin\Debug\Ex11 Dia_da_semana.exe
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\Ex11 Dia_da_semana\Ex11 Dia_da_semana\bin\Debug\Ex11 Dia_da_semana.pdb
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\Ex11 Dia_da_semana\Ex11 Dia_da_semana\obj\Debug\Ex11 Dia_da_semana.exe
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\Ex11 Dia_da_semana\Ex11 Dia_da_semana\obj\Debug\Ex11 Dia_da_semana.pdb

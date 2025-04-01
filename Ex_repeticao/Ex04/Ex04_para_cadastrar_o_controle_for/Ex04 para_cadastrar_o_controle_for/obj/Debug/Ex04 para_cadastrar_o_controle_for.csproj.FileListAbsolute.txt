@@ -1,0 +1,7 @@
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\LogicaComCSharp\Ex repetição\Ex04\Ex04 para_cadastrar_o_controle_for\Ex04 para_cadastrar_o_controle_for\obj\Debug\Ex04 para_cadastrar_o_controle_for.csproj.AssemblyReference.cache
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\LogicaComCSharp\Ex repetição\Ex04\Ex04 para_cadastrar_o_controle_for\Ex04 para_cadastrar_o_controle_for\obj\Debug\Ex04 para_cadastrar_o_controle_for.csproj.CoreCompileInputs.cache
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\LogicaComCSharp\Ex repetição\Ex04\Ex04 para_cadastrar_o_controle_for\Ex04 para_cadastrar_o_controle_for\bin\Debug\Ex04 para_cadastrar_o_controle_for.exe.config
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\LogicaComCSharp\Ex repetição\Ex04\Ex04 para_cadastrar_o_controle_for\Ex04 para_cadastrar_o_controle_for\bin\Debug\Ex04 para_cadastrar_o_controle_for.exe
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\LogicaComCSharp\Ex repetição\Ex04\Ex04 para_cadastrar_o_controle_for\Ex04 para_cadastrar_o_controle_for\bin\Debug\Ex04 para_cadastrar_o_controle_for.pdb
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\LogicaComCSharp\Ex repetição\Ex04\Ex04 para_cadastrar_o_controle_for\Ex04 para_cadastrar_o_controle_for\obj\Debug\Ex04 para_cadastrar_o_controle_for.exe
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\LogicaComCSharp\Ex repetição\Ex04\Ex04 para_cadastrar_o_controle_for\Ex04 para_cadastrar_o_controle_for\obj\Debug\Ex04 para_cadastrar_o_controle_for.pdb

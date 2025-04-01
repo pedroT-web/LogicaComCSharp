@@ -1,0 +1,7 @@
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\Ex05 Calcular_desconto\Ex05 Calcular_desconto\bin\Debug\Ex05 Calcular_desconto.exe.config
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\Ex05 Calcular_desconto\Ex05 Calcular_desconto\bin\Debug\Ex05 Calcular_desconto.exe
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\Ex05 Calcular_desconto\Ex05 Calcular_desconto\bin\Debug\Ex05 Calcular_desconto.pdb
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\Ex05 Calcular_desconto\Ex05 Calcular_desconto\obj\Debug\Ex05 Calcular_desconto.csproj.AssemblyReference.cache
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\Ex05 Calcular_desconto\Ex05 Calcular_desconto\obj\Debug\Ex05 Calcular_desconto.csproj.CoreCompileInputs.cache
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\Ex05 Calcular_desconto\Ex05 Calcular_desconto\obj\Debug\Ex05 Calcular_desconto.exe
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\Ex05 Calcular_desconto\Ex05 Calcular_desconto\obj\Debug\Ex05 Calcular_desconto.pdb

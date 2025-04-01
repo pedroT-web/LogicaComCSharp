@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pedro.atsantos2\\source\\repos\\LogicaComCSharp\\LogicaComCSharp\\Ex repeti\u00E7\u00E3o\\Ex04\\Ex04 para_cadastrar_o_controle_for\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2296A50B-EE72-4B8D-8A6C-5F189719DEA4}|Ex04 para_cadastrar_o_controle_for\\Ex04 para_cadastrar_o_controle_for.csproj|c:\\users\\pedro.atsantos2\\source\\repos\\logicacomcsharp\\logicacomcsharp\\ex repeti\u00E7\u00E3o\\ex04\\ex04 para_cadastrar_o_controle_for\\ex04 para_cadastrar_o_controle_for\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2296A50B-EE72-4B8D-8A6C-5F189719DEA4}|Ex04 para_cadastrar_o_controle_for\\Ex04 para_cadastrar_o_controle_for.csproj|solutionrelative:ex04 para_cadastrar_o_controle_for\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pedro.atsantos2\\source\\repos\\LogicaComCSharp\\LogicaComCSharp\\Ex repeti\u00E7\u00E3o\\Ex04\\Ex04 para_cadastrar_o_controle_for\\Ex04 para_cadastrar_o_controle_for\\Program.cs",
+              "RelativeDocumentMoniker": "Ex04 para_cadastrar_o_controle_for\\Program.cs",
+              "ToolTip": "C:\\Users\\pedro.atsantos2\\source\\repos\\LogicaComCSharp\\LogicaComCSharp\\Ex repeti\u00E7\u00E3o\\Ex04\\Ex04 para_cadastrar_o_controle_for\\Ex04 para_cadastrar_o_controle_for\\Program.cs*",
+              "RelativeToolTip": "Ex04 para_cadastrar_o_controle_for\\Program.cs*",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA1wCkAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T12:48:24.057Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

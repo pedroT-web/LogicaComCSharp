@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pedro.atsantos2\\source\\repos\\LogicaComCSharp\\Ex02_Cot\u00F3_na_Perna\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A3A3135A-4F9A-43DB-8723-96D5CA94341E}|Ex02_Cot\u00F3_na_Perna\\Ex02_Cot\u00F3_na_Perna.csproj|c:\\users\\pedro.atsantos2\\source\\repos\\logicacomcsharp\\ex02_cot\u00F3_na_perna\\ex02_cot\u00F3_na_perna\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3A3135A-4F9A-43DB-8723-96D5CA94341E}|Ex02_Cot\u00F3_na_Perna\\Ex02_Cot\u00F3_na_Perna.csproj|solutionrelative:ex02_cot\u00F3_na_perna\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pedro.atsantos2\\source\\repos\\LogicaComCSharp\\Ex02_Cot\u00F3_na_Perna\\Ex02_Cot\u00F3_na_Perna\\Program.cs",
+              "RelativeDocumentMoniker": "Ex02_Cot\u00F3_na_Perna\\Program.cs",
+              "ToolTip": "C:\\Users\\pedro.atsantos2\\source\\repos\\LogicaComCSharp\\Ex02_Cot\u00F3_na_Perna\\Ex02_Cot\u00F3_na_Perna\\Program.cs*",
+              "RelativeToolTip": "Ex02_Cot\u00F3_na_Perna\\Program.cs*",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAzwCQAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T13:01:17.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

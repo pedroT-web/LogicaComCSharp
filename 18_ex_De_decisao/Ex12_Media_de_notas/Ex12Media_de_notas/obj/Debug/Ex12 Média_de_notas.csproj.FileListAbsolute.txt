@@ -1,0 +1,7 @@
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\Ex12 Média_de_notas\Ex12 Média_de_notas\bin\Debug\Ex12 Média_de_notas.exe.config
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\Ex12 Média_de_notas\Ex12 Média_de_notas\bin\Debug\Ex12 Média_de_notas.exe
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\Ex12 Média_de_notas\Ex12 Média_de_notas\bin\Debug\Ex12 Média_de_notas.pdb
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\Ex12 Média_de_notas\Ex12 Média_de_notas\obj\Debug\Ex12 Média_de_notas.csproj.AssemblyReference.cache
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\Ex12 Média_de_notas\Ex12 Média_de_notas\obj\Debug\Ex12 Média_de_notas.csproj.CoreCompileInputs.cache
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\Ex12 Média_de_notas\Ex12 Média_de_notas\obj\Debug\Ex12 Média_de_notas.exe
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\Ex12 Média_de_notas\Ex12 Média_de_notas\obj\Debug\Ex12 Média_de_notas.pdb

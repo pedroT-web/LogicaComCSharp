@@ -1,0 +1,7 @@
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\Ex14 Verificação_de_senha\Ex14 Verificação_de_senha\obj\Debug\Ex14 Verificação_de_senha.csproj.AssemblyReference.cache
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\Ex14 Verificação_de_senha\Ex14 Verificação_de_senha\obj\Debug\Ex14 Verificação_de_senha.csproj.CoreCompileInputs.cache
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\Ex14 Verificação_de_senha\Ex14 Verificação_de_senha\bin\Debug\Ex14 Verificação_de_senha.exe.config
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\Ex14 Verificação_de_senha\Ex14 Verificação_de_senha\bin\Debug\Ex14 Verificação_de_senha.exe
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\Ex14 Verificação_de_senha\Ex14 Verificação_de_senha\bin\Debug\Ex14 Verificação_de_senha.pdb
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\Ex14 Verificação_de_senha\Ex14 Verificação_de_senha\obj\Debug\Ex14 Verificação_de_senha.exe
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\Ex14 Verificação_de_senha\Ex14 Verificação_de_senha\obj\Debug\Ex14 Verificação_de_senha.pdb

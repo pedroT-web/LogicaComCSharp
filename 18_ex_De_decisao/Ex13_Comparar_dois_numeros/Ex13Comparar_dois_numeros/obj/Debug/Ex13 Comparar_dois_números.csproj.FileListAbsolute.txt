@@ -1,0 +1,7 @@
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\Ex13 Comparar_dois_números\Ex13 Comparar_dois_números\bin\Debug\Ex13 Comparar_dois_números.exe.config
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\Ex13 Comparar_dois_números\Ex13 Comparar_dois_números\bin\Debug\Ex13 Comparar_dois_números.exe
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\Ex13 Comparar_dois_números\Ex13 Comparar_dois_números\bin\Debug\Ex13 Comparar_dois_números.pdb
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\Ex13 Comparar_dois_números\Ex13 Comparar_dois_números\obj\Debug\Ex13 Comparar_dois_números.csproj.AssemblyReference.cache
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\Ex13 Comparar_dois_números\Ex13 Comparar_dois_números\obj\Debug\Ex13 Comparar_dois_números.csproj.CoreCompileInputs.cache
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\Ex13 Comparar_dois_números\Ex13 Comparar_dois_números\obj\Debug\Ex13 Comparar_dois_números.exe
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\Ex13 Comparar_dois_números\Ex13 Comparar_dois_números\obj\Debug\Ex13 Comparar_dois_números.pdb

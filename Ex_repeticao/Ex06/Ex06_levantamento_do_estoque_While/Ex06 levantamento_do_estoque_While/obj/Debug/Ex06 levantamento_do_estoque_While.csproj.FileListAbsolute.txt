@@ -1,0 +1,7 @@
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\LogicaComCSharp\Ex repetição\Ex04\Ex06 levantamento_do_estoque_While\Ex06 levantamento_do_estoque_While\bin\Debug\Ex06 levantamento_do_estoque_While.exe.config
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\LogicaComCSharp\Ex repetição\Ex04\Ex06 levantamento_do_estoque_While\Ex06 levantamento_do_estoque_While\bin\Debug\Ex06 levantamento_do_estoque_While.exe
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\LogicaComCSharp\Ex repetição\Ex04\Ex06 levantamento_do_estoque_While\Ex06 levantamento_do_estoque_While\bin\Debug\Ex06 levantamento_do_estoque_While.pdb
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\LogicaComCSharp\Ex repetição\Ex04\Ex06 levantamento_do_estoque_While\Ex06 levantamento_do_estoque_While\obj\Debug\Ex06 levantamento_do_estoque_While.csproj.AssemblyReference.cache
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\LogicaComCSharp\Ex repetição\Ex04\Ex06 levantamento_do_estoque_While\Ex06 levantamento_do_estoque_While\obj\Debug\Ex06 levantamento_do_estoque_While.csproj.CoreCompileInputs.cache
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\LogicaComCSharp\Ex repetição\Ex04\Ex06 levantamento_do_estoque_While\Ex06 levantamento_do_estoque_While\obj\Debug\Ex06 levantamento_do_estoque_While.exe
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\LogicaComCSharp\Ex repetição\Ex04\Ex06 levantamento_do_estoque_While\Ex06 levantamento_do_estoque_While\obj\Debug\Ex06 levantamento_do_estoque_While.pdb

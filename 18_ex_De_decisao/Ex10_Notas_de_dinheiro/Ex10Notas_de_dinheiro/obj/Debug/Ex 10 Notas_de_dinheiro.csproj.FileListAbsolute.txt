@@ -1,0 +1,7 @@
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\Ex 10 Notas_de_dinheiro\Ex 10 Notas_de_dinheiro\bin\Debug\Ex 10 Notas_de_dinheiro.exe.config
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\Ex 10 Notas_de_dinheiro\Ex 10 Notas_de_dinheiro\bin\Debug\Ex 10 Notas_de_dinheiro.exe
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\Ex 10 Notas_de_dinheiro\Ex 10 Notas_de_dinheiro\bin\Debug\Ex 10 Notas_de_dinheiro.pdb
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\Ex 10 Notas_de_dinheiro\Ex 10 Notas_de_dinheiro\obj\Debug\Ex 10 Notas_de_dinheiro.csproj.AssemblyReference.cache
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\Ex 10 Notas_de_dinheiro\Ex 10 Notas_de_dinheiro\obj\Debug\Ex 10 Notas_de_dinheiro.csproj.CoreCompileInputs.cache
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\Ex 10 Notas_de_dinheiro\Ex 10 Notas_de_dinheiro\obj\Debug\Ex 10 Notas_de_dinheiro.exe
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\Ex 10 Notas_de_dinheiro\Ex 10 Notas_de_dinheiro\obj\Debug\Ex 10 Notas_de_dinheiro.pdb

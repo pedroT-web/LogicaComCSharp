@@ -1,0 +1,7 @@
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\LogicaComCSharp\18 ex De decisão\Ex02 somente_os_números_ímpares_For\Ex02 somente_os_números_ímpares_For\bin\Debug\Ex02 somente_os_números_ímpares_For.exe.config
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\LogicaComCSharp\18 ex De decisão\Ex02 somente_os_números_ímpares_For\Ex02 somente_os_números_ímpares_For\bin\Debug\Ex02 somente_os_números_ímpares_For.exe
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\LogicaComCSharp\18 ex De decisão\Ex02 somente_os_números_ímpares_For\Ex02 somente_os_números_ímpares_For\bin\Debug\Ex02 somente_os_números_ímpares_For.pdb
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\LogicaComCSharp\18 ex De decisão\Ex02 somente_os_números_ímpares_For\Ex02 somente_os_números_ímpares_For\obj\Debug\Ex02 somente_os_números_ímpares_For.csproj.AssemblyReference.cache
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\LogicaComCSharp\18 ex De decisão\Ex02 somente_os_números_ímpares_For\Ex02 somente_os_números_ímpares_For\obj\Debug\Ex02 somente_os_números_ímpares_For.csproj.CoreCompileInputs.cache
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\LogicaComCSharp\18 ex De decisão\Ex02 somente_os_números_ímpares_For\Ex02 somente_os_números_ímpares_For\obj\Debug\Ex02 somente_os_números_ímpares_For.exe
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\LogicaComCSharp\18 ex De decisão\Ex02 somente_os_números_ímpares_For\Ex02 somente_os_números_ímpares_For\obj\Debug\Ex02 somente_os_números_ímpares_For.pdb

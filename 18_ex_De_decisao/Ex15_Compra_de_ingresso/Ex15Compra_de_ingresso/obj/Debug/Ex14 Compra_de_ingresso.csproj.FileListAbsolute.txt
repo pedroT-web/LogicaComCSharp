@@ -1,0 +1,7 @@
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\Ex14 Compra_de_ingresso\Ex14 Compra_de_ingresso\obj\Debug\Ex14 Compra_de_ingresso.csproj.AssemblyReference.cache
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\Ex14 Compra_de_ingresso\Ex14 Compra_de_ingresso\obj\Debug\Ex14 Compra_de_ingresso.csproj.CoreCompileInputs.cache
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\Ex14 Compra_de_ingresso\Ex14 Compra_de_ingresso\bin\Debug\Ex14 Compra_de_ingresso.exe.config
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\Ex14 Compra_de_ingresso\Ex14 Compra_de_ingresso\bin\Debug\Ex14 Compra_de_ingresso.exe
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\Ex14 Compra_de_ingresso\Ex14 Compra_de_ingresso\bin\Debug\Ex14 Compra_de_ingresso.pdb
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\Ex14 Compra_de_ingresso\Ex14 Compra_de_ingresso\obj\Debug\Ex14 Compra_de_ingresso.exe
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\Ex14 Compra_de_ingresso\Ex14 Compra_de_ingresso\obj\Debug\Ex14 Compra_de_ingresso.pdb

@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pedro.atsantos2\\source\\repos\\LogicaComCSharp\\Ex14 Compra_de_ingresso\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{65181A55-EE92-4169-A6FC-778B95D7ACB2}|Ex14 Compra_de_ingresso\\Ex14 Compra_de_ingresso.csproj|c:\\users\\pedro.atsantos2\\source\\repos\\logicacomcsharp\\ex14 compra_de_ingresso\\ex14 compra_de_ingresso\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65181A55-EE92-4169-A6FC-778B95D7ACB2}|Ex14 Compra_de_ingresso\\Ex14 Compra_de_ingresso.csproj|solutionrelative:ex14 compra_de_ingresso\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pedro.atsantos2\\source\\repos\\LogicaComCSharp\\Ex14 Compra_de_ingresso\\Ex14 Compra_de_ingresso\\Program.cs",
+              "RelativeDocumentMoniker": "Ex14 Compra_de_ingresso\\Program.cs",
+              "ToolTip": "C:\\Users\\pedro.atsantos2\\source\\repos\\LogicaComCSharp\\Ex14 Compra_de_ingresso\\Ex14 Compra_de_ingresso\\Program.cs",
+              "RelativeToolTip": "Ex14 Compra_de_ingresso\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T11:38:27.942Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\LogicaComCSharp\Ex repetição\Ex04\Ex05 jogo_de_adivinhação_While\Ex05 jogo_de_adivinhação_While\bin\Debug\Ex05 jogo_de_adivinhação_While.exe.config
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\LogicaComCSharp\Ex repetição\Ex04\Ex05 jogo_de_adivinhação_While\Ex05 jogo_de_adivinhação_While\bin\Debug\Ex05 jogo_de_adivinhação_While.exe
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\LogicaComCSharp\Ex repetição\Ex04\Ex05 jogo_de_adivinhação_While\Ex05 jogo_de_adivinhação_While\bin\Debug\Ex05 jogo_de_adivinhação_While.pdb
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\LogicaComCSharp\Ex repetição\Ex04\Ex05 jogo_de_adivinhação_While\Ex05 jogo_de_adivinhação_While\obj\Debug\Ex05 jogo_de_adivinhação_While.csproj.AssemblyReference.cache
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\LogicaComCSharp\Ex repetição\Ex04\Ex05 jogo_de_adivinhação_While\Ex05 jogo_de_adivinhação_While\obj\Debug\Ex05 jogo_de_adivinhação_While.csproj.CoreCompileInputs.cache
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\LogicaComCSharp\Ex repetição\Ex04\Ex05 jogo_de_adivinhação_While\Ex05 jogo_de_adivinhação_While\obj\Debug\Ex05 jogo_de_adivinhação_While.exe
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\LogicaComCSharp\Ex repetição\Ex04\Ex05 jogo_de_adivinhação_While\Ex05 jogo_de_adivinhação_While\obj\Debug\Ex05 jogo_de_adivinhação_While.pdb

@@ -1,0 +1,7 @@
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\Ex03_Positivo_negativo_0\Ex03_Positivo_negativo_0\bin\Debug\Ex03_Positivo_negativo_0.exe.config
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\Ex03_Positivo_negativo_0\Ex03_Positivo_negativo_0\bin\Debug\Ex03_Positivo_negativo_0.exe
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\Ex03_Positivo_negativo_0\Ex03_Positivo_negativo_0\bin\Debug\Ex03_Positivo_negativo_0.pdb
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\Ex03_Positivo_negativo_0\Ex03_Positivo_negativo_0\obj\Debug\Ex03_Positivo_negativo_0.csproj.AssemblyReference.cache
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\Ex03_Positivo_negativo_0\Ex03_Positivo_negativo_0\obj\Debug\Ex03_Positivo_negativo_0.csproj.CoreCompileInputs.cache
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\Ex03_Positivo_negativo_0\Ex03_Positivo_negativo_0\obj\Debug\Ex03_Positivo_negativo_0.exe
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\Ex03_Positivo_negativo_0\Ex03_Positivo_negativo_0\obj\Debug\Ex03_Positivo_negativo_0.pdb

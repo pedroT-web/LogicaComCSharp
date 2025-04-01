@@ -1,0 +1,7 @@
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\LogicaComCSharp\18 ex De decisão\Ex17  Verificar_um_triângulo\Ex17  Verificar_um_triângulo\bin\Debug\Ex17  Verificar_um_triângulo.exe.config
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\LogicaComCSharp\18 ex De decisão\Ex17  Verificar_um_triângulo\Ex17  Verificar_um_triângulo\bin\Debug\Ex17  Verificar_um_triângulo.exe
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\LogicaComCSharp\18 ex De decisão\Ex17  Verificar_um_triângulo\Ex17  Verificar_um_triângulo\bin\Debug\Ex17  Verificar_um_triângulo.pdb
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\LogicaComCSharp\18 ex De decisão\Ex17  Verificar_um_triângulo\Ex17  Verificar_um_triângulo\obj\Debug\Ex17  Verificar_um_triângulo.csproj.AssemblyReference.cache
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\LogicaComCSharp\18 ex De decisão\Ex17  Verificar_um_triângulo\Ex17  Verificar_um_triângulo\obj\Debug\Ex17  Verificar_um_triângulo.csproj.CoreCompileInputs.cache
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\LogicaComCSharp\18 ex De decisão\Ex17  Verificar_um_triângulo\Ex17  Verificar_um_triângulo\obj\Debug\Ex17  Verificar_um_triângulo.exe
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\LogicaComCSharp\18 ex De decisão\Ex17  Verificar_um_triângulo\Ex17  Verificar_um_triângulo\obj\Debug\Ex17  Verificar_um_triângulo.pdb

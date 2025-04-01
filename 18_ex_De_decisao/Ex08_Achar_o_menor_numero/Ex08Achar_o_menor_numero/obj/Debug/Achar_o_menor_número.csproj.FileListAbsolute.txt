@@ -1,0 +1,7 @@
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\Achar_o_menor_número\Achar_o_menor_número\bin\Debug\Achar_o_menor_número.exe.config
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\Achar_o_menor_número\Achar_o_menor_número\bin\Debug\Achar_o_menor_número.exe
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\Achar_o_menor_número\Achar_o_menor_número\bin\Debug\Achar_o_menor_número.pdb
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\Achar_o_menor_número\Achar_o_menor_número\obj\Debug\Achar_o_menor_número.csproj.AssemblyReference.cache
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\Achar_o_menor_número\Achar_o_menor_número\obj\Debug\Achar_o_menor_número.csproj.CoreCompileInputs.cache
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\Achar_o_menor_número\Achar_o_menor_número\obj\Debug\Achar_o_menor_número.exe
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\Achar_o_menor_número\Achar_o_menor_número\obj\Debug\Achar_o_menor_número.pdb

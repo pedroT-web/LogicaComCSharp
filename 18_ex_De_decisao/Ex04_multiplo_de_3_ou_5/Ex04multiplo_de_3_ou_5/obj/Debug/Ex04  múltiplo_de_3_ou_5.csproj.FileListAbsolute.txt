@@ -1,0 +1,7 @@
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\Ex04  múltiplo_de_3_ou_5\Ex04  múltiplo_de_3_ou_5\bin\Debug\Ex04  múltiplo_de_3_ou_5.exe.config
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\Ex04  múltiplo_de_3_ou_5\Ex04  múltiplo_de_3_ou_5\bin\Debug\Ex04  múltiplo_de_3_ou_5.exe
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\Ex04  múltiplo_de_3_ou_5\Ex04  múltiplo_de_3_ou_5\bin\Debug\Ex04  múltiplo_de_3_ou_5.pdb
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\Ex04  múltiplo_de_3_ou_5\Ex04  múltiplo_de_3_ou_5\obj\Debug\Ex04  múltiplo_de_3_ou_5.csproj.AssemblyReference.cache
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\Ex04  múltiplo_de_3_ou_5\Ex04  múltiplo_de_3_ou_5\obj\Debug\Ex04  múltiplo_de_3_ou_5.csproj.CoreCompileInputs.cache
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\Ex04  múltiplo_de_3_ou_5\Ex04  múltiplo_de_3_ou_5\obj\Debug\Ex04  múltiplo_de_3_ou_5.exe
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\Ex04  múltiplo_de_3_ou_5\Ex04  múltiplo_de_3_ou_5\obj\Debug\Ex04  múltiplo_de_3_ou_5.pdb

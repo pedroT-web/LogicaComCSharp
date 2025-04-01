@@ -1,0 +1,7 @@
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\LogicaComCSharp\18 ex De decisão\Ex03 conjunto_de_20_números_For\Ex03 conjunto_de_20_números_For\bin\Debug\Ex03 conjunto_de_20_números_For.exe.config
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\LogicaComCSharp\18 ex De decisão\Ex03 conjunto_de_20_números_For\Ex03 conjunto_de_20_números_For\bin\Debug\Ex03 conjunto_de_20_números_For.exe
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\LogicaComCSharp\18 ex De decisão\Ex03 conjunto_de_20_números_For\Ex03 conjunto_de_20_números_For\bin\Debug\Ex03 conjunto_de_20_números_For.pdb
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\LogicaComCSharp\18 ex De decisão\Ex03 conjunto_de_20_números_For\Ex03 conjunto_de_20_números_For\obj\Debug\Ex03 conjunto_de_20_números_For.csproj.AssemblyReference.cache
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\LogicaComCSharp\18 ex De decisão\Ex03 conjunto_de_20_números_For\Ex03 conjunto_de_20_números_For\obj\Debug\Ex03 conjunto_de_20_números_For.csproj.CoreCompileInputs.cache
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\LogicaComCSharp\18 ex De decisão\Ex03 conjunto_de_20_números_For\Ex03 conjunto_de_20_números_For\obj\Debug\Ex03 conjunto_de_20_números_For.exe
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\LogicaComCSharp\18 ex De decisão\Ex03 conjunto_de_20_números_For\Ex03 conjunto_de_20_números_For\obj\Debug\Ex03 conjunto_de_20_números_For.pdb

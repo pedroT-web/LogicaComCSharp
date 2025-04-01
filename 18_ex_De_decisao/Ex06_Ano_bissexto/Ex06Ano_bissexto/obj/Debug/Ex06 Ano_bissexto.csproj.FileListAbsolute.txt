@@ -1,0 +1,7 @@
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\Ex06 Ano_bissexto\Ex06 Ano_bissexto\bin\Debug\Ex06 Ano_bissexto.exe.config
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\Ex06 Ano_bissexto\Ex06 Ano_bissexto\bin\Debug\Ex06 Ano_bissexto.exe
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\Ex06 Ano_bissexto\Ex06 Ano_bissexto\bin\Debug\Ex06 Ano_bissexto.pdb
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\Ex06 Ano_bissexto\Ex06 Ano_bissexto\obj\Debug\Ex06 Ano_bissexto.csproj.AssemblyReference.cache
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\Ex06 Ano_bissexto\Ex06 Ano_bissexto\obj\Debug\Ex06 Ano_bissexto.csproj.CoreCompileInputs.cache
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\Ex06 Ano_bissexto\Ex06 Ano_bissexto\obj\Debug\Ex06 Ano_bissexto.exe
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\Ex06 Ano_bissexto\Ex06 Ano_bissexto\obj\Debug\Ex06 Ano_bissexto.pdb
