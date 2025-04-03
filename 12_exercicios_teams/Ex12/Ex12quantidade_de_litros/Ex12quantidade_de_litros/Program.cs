@@ -1,0 +1,36 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Ex12quantidade_de_litros
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        //Faça um algoritmo que calcule a quantidade de litros de combustível gastos em uma viagem, sabendo que o carro faz 12km com um litro.
+        //Deve-se fornecer ao usuário o tempo que será gasto na viagem a sua velocidade média, distância percorrida e a quantidade de litros utilizados para fazer a viagem.
+        //Fórmula: distância = tempo x velocidade.
+        //litros usados = distância / 12.
+
+        {
+            double tempo, velocidadeMedia, distancia, litrosDeGasolina;
+            Console.Write("Digite o tempo da viagem (em horas): ");
+             tempo = Convert.ToDouble(Console.ReadLine());
+
+            Console.Write("Digite a velocidade média (em km/h): ");
+            velocidadeMedia = Convert.ToDouble(Console.ReadLine());
+
+            // Calcula a distância percorrida
+            distancia = tempo * velocidadeMedia;
+
+            // Calcula a quantidade de litros gastos (considerando 12 km por litro)
+            litrosDeGasolina = distancia / 12;
+
+            // Concatenando a resposta com a quantidade de litros
+            Console.WriteLine("A quantidade de litros gastos na viagem foi " + litrosDeGasolina.ToString("F2") + " litros.");
+
+        }
+    }
+}
