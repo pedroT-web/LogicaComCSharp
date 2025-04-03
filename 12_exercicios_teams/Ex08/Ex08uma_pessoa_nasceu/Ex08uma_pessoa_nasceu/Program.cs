@@ -14,6 +14,26 @@ namespace Ex08uma_pessoa_nasceu
         //(Ex: 5 anos, 2 meses e 15 dias de vida)
 
         {
+            Console.Title = "Exercício 8";
+            Console.ForegroundColor = ConsoleColor.Blue;
+
+            Console.WriteLine(@"   
+                ╔═════════════════════════════════════════════════════════════════════════════════════════════════════╗               
+                ║                                                                                                     ║                                                                  
+                ║        _   _ _ __ ___   __ _   _ __   ___  ___ ___  ___   __ _   _ __   __ _ ___  ___ ___ _   _     ║
+                ║       | | | | '_ ` _ \ / _` | | '_ \ / _ \/ __/ __|/ _ \ / _` | | '_ \ / _` / __|/ __/ _ \ | | |    ║
+                ║       | |_| | | | | | | (_| | | |_) |  __/\__ \__ \ (_) | (_| | | | | | (_| \__ \ (_|  __/ |_| |    ║
+                ║        \__,_|_| |_| |_|\__,_| | .__/ \___||___/___/\___/ \__,_| |_| |_|\__,_|___/\___\___|\__,_|    ║
+                ║                               | |                                                                   ║
+                ║                               |_|                                                                   ║                                                                                                       
+                ╚═════════════════════════════════════════════════════════════════════════════════════════════════════╝
+                    ");
+
+            Console.ForegroundColor = ConsoleColor.Green;
+            Console.WriteLine("\nFaça um algoritmo que leia o ano em que uma pessoa nasceu, imprima na tela quantos anos, meses e dias essa pessoa ja viveu. \nLeve em consideração o ano com 365 dias e o mês com 30 dias.");
+
+            Console.ResetColor();
+
             double anoAtual, anodeNasc, AnosVividos, mesesVividos, diasVividos;
 
             Console.Write("Digite o ano em que você nasceu: ");

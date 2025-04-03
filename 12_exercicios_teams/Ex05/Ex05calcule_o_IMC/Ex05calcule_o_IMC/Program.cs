@@ -21,9 +21,30 @@ namespace Ex05calcule_o_IMC
         //Maior ou igual a 40 | Obesidade grau III(mórbida)
 
         {
+            Console.Title = "Exercícios 5";
+
+            Console.ForegroundColor = ConsoleColor.Blue;
+            Console.WriteLine(@"   
+                ╔════════════════════════════════════════════════════════════════════════════╗              
+                ║                _            _                _____ __  __  _____           ║   
+                ║               | |          | |              |_   _|  \/  |/ ____|          ║   
+                ║       ___ __ _| | ___ _   _| | ___    ___     | | | \  / | |               ║   
+                ║      / __/ _` | |/ __| | | | |/ _ \  / _ \    | | | |\/| | |               ║   
+                ║     | (_| (_| | | (__| |_| | |  __/ | (_) |  _| |_| |  | | |____           ║   
+                ║      \___\__,_|_|\___|\__,_|_|\___|  \___/  |_____|_|  |_|\_____|          ║   
+                ║                                                                            ║           
+                ║                                                                            ║
+                ╚════════════════════════════════════════════════════════════════════════════╝
+                    ");
+
+
+            Console.ForegroundColor = ConsoleColor.Green;
+            Console.WriteLine("\nFaça um algoritmo que calcule o IMC (Índice de Massa Corporal) de uma pessoa, leia o seu peso e sua altura e imprima na tela sua condição ");
+
+            Console.ResetColor();
             double peso, altura, imc;
 
-            Console.Write("Calculo de IMC ");
+            
 
             Console.Write("Digite o seu peso: ");
             peso = double.Parse(Console.ReadLine());

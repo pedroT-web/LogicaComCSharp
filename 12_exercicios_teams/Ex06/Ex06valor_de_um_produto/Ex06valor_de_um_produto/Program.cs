@@ -21,13 +21,33 @@ namespace Ex06valor_de_um_produto
          //4 - Parcelado no cartão em três vezes ou mais, preço normal do produto mais juros de 10%
 
         {
+            Console.Title = "Exercício 6";
+            Console.ForegroundColor = ConsoleColor.Blue;
+            Console.WriteLine(@"
+               ╔═════════════════════════════════════════════════════════════════════════════════════════════════════╗
+               ║                                                                                                     ║    
+               ║                                                                                                     ║    
+               ║                _                  _                                              _       _          ║
+               ║               | |                | |                                            | |     | |         ║      
+               ║    __   ____ _| | ___  _ __    __| | ___   _   _ _ __ ___    _ __  _ __ ___   __| |_   _| |_ ___    ║    
+               ║    \ \ / / _` | |/ _ \| '__|  / _` |/ _ \ | | | | '_ ` _ \  | '_ \| '__/ _ \ / _` | | | | __/ _ \   ║
+               ║     \ V / (_| | | (_) | |    | (_| |  __/ | |_| | | | | | | | |_) | | | (_) | (_| | |_| | || (_) |  ║
+               ║      \_/ \__,_|_|\___/|_|     \__,_|\___|  \__,_|_| |_| |_| | .__/|_|  \___/ \__,_|\__,_|\__\___/   ║
+               ║                                                             | |                                     ║
+               ║                                                             |_|                                     ║
+               ╚═════════════════════════════════════════════════════════════════════════════════════════════════════╝ ");
+
+            Console.ForegroundColor = ConsoleColor.Green;
+            Console.WriteLine("\nFaça um algoritmo que leia o valor de um produto e determine o valor que deve ser pago, conforme a escolha da forma de pagamento \n pelo comprador e imprima na tela o valor final do produto a ser pago.");
+            Console.ResetColor();
+
             double valorProduto, valorAserPago;
             string formaDePagamento;
 
             Console.Write("Digite o valor a ser pago: ");
             valorProduto = double.Parse(Console.ReadLine());
 
-            Console.Write(" 1-(a vista em Dinheiro) \n 2-(a vista no Pix) \n 3-(a vista no cartão de crédito)\n 4-(Parcelado no cartão em duas vezes)\n 5-(Parcelado no cartão em três vezes)\n Digite a forma de pagamento: ");
+            Console.Write(" 1-(a vista em Dinheiro) \n 2-(a vista no Pix) \n 3-(a vista no cartão de crédito)\n 4-(Parcelado no cartão em duas vezes)\n 5-(Parcelado no cartão em três vezes) \nDigite a forma de pagamento: ");
             formaDePagamento = Console.ReadLine();
 
             if(formaDePagamento == "1" || formaDePagamento == "2")

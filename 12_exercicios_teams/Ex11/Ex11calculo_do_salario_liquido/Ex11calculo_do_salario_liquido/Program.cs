@@ -16,9 +16,31 @@ namespace Ex11calculo_do_salario_liquido
             //De R$ 2.793,89 até R$ 4.190,83: 12%
             //De R$ 4.190,84 até R$ 8.157,41: 14%
         {
+            Console.Title = "Exercício 11";
+            Console.ForegroundColor = ConsoleColor.Blue;
+
+            Console.WriteLine(@"   
+                ╔═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════╗
+                ║                                                                                                                         ║   
+                ║                 _            _             _                   _            _         _ _             _     _           ║ 
+                ║                | |          | |           | |                 | |          (_)       | (_)           (_)   | |          ║ 
+                ║        ___ __ _| | ___ _   _| | ___     __| | ___    ___  __ _| | __ _ _ __ _  ___   | |_  __ _ _   _ _  __| | ___      ║ 
+                ║       / __/ _` | |/ __| | | | |/ _ \   / _` |/ _ \  / __|/ _` | |/ _` | '__| |/ _ \  | | |/ _` | | | | |/ _` |/ _ \     ║ 
+                ║      | (_| (_| | | (__| |_| | | (_) | | (_| | (_) | \__ \ (_| | | (_| | |  | | (_) | | | | (_| | |_| | | (_| | (_) |    ║   
+                ║       \___\__,_|_|\___|\__,_|_|\___/   \__,_|\___/  |___/\__,_|_|\__,_|_|  |_|\___/  |_|_|\__, |\__,_|_|\__,_|\___/     ║ 
+                ║                                                                                              | |                        ║ 
+                ║                                                                                              |_|                        ║ 
+                ╚═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════╝
+                    ");
+
+            Console.ForegroundColor = ConsoleColor.Green;
+            Console.Write("Faça um algoritmo que efetue o cálculo do salário líquido de um professor. As informações fornecidas serão: valor da hora aula, número de aulas lecionadas no mês e percentual de desconto do INSS.Imprima na tela o salário líquido final.");
+           
+            Console.ResetColor();
+
             double valorDaAula, numeroDeAulas, Inss= 0, valorTotal;
 
-            Console.Write("Digite O valor de cada aula dada: ");
+            Console.WriteLine("\nDigite O valor de cada aula dada: ");
             valorDaAula = double.Parse(Console.ReadLine());
 
             Console.Write("Digite O numer de aulas dadas: ");

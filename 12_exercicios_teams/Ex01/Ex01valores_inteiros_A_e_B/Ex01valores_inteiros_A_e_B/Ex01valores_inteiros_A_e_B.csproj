@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{F3EE4CE5-7820-464B-87AA-4F1BDF84A3C4}</ProjectGuid>
+    <ProjectGuid>{02C8A2DE-4141-433E-92C0-5EFDE85FFFB2}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Ex02valores_inteiros_A_e_B</RootNamespace>
-    <AssemblyName>Ex02valores_inteiros_A_e_B</AssemblyName>
+    <RootNamespace>Ex01valores_inteiros_A_e_B</RootNamespace>
+    <AssemblyName>Ex01valores_inteiros_A_e_B</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

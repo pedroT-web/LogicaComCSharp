@@ -14,21 +14,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\pedro.atsantos2\\source\\repos\\LogicaComCSharp\\LogicaComCSharp\\12_exercicios_teams\\Ex08\\Ex08uma_pessoa_nasceu\\Ex08uma_pessoa_nasceu\\Program.cs",
               "RelativeDocumentMoniker": "Ex08uma_pessoa_nasceu\\Program.cs",
-              "ToolTip": "C:\\Users\\pedro.atsantos2\\source\\repos\\LogicaComCSharp\\LogicaComCSharp\\12_exercicios_teams\\Ex08\\Ex08uma_pessoa_nasceu\\Ex08uma_pessoa_nasceu\\Program.cs*",
-              "RelativeToolTip": "Ex08uma_pessoa_nasceu\\Program.cs*",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAUwB8AAABEAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\pedro.atsantos2\\source\\repos\\LogicaComCSharp\\LogicaComCSharp\\12_exercicios_teams\\Ex08\\Ex08uma_pessoa_nasceu\\Ex08uma_pessoa_nasceu\\Program.cs",
+              "RelativeToolTip": "Ex08uma_pessoa_nasceu\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAywCAAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-02T11:19:06.866Z",
               "EditorCaption": ""
