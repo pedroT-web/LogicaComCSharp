@@ -1,0 +1,7 @@
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\LogicaComCSharp\12_exercicios_teams\Detonação_bomba\Detonação_bomba\bin\Debug\Detonação_bomba.exe.config
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\LogicaComCSharp\12_exercicios_teams\Detonação_bomba\Detonação_bomba\bin\Debug\Detonação_bomba.exe
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\LogicaComCSharp\12_exercicios_teams\Detonação_bomba\Detonação_bomba\bin\Debug\Detonação_bomba.pdb
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\LogicaComCSharp\12_exercicios_teams\Detonação_bomba\Detonação_bomba\obj\Debug\Detonação_bomba.csproj.AssemblyReference.cache
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\LogicaComCSharp\12_exercicios_teams\Detonação_bomba\Detonação_bomba\obj\Debug\Detonação_bomba.csproj.CoreCompileInputs.cache
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\LogicaComCSharp\12_exercicios_teams\Detonação_bomba\Detonação_bomba\obj\Debug\Detonação_bomba.exe
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\LogicaComCSharp\12_exercicios_teams\Detonação_bomba\Detonação_bomba\obj\Debug\Detonação_bomba.pdb

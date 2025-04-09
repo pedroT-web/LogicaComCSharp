@@ -1,0 +1,7 @@
+C:\Users\Pedro\source\repos\LogicaComCsharp\ExercíciosTeams\Sistema_De_Semaforo\Sistema_De_Semaforo\bin\Debug\Sistema_De_Semaforo.exe.config
+C:\Users\Pedro\source\repos\LogicaComCsharp\ExercíciosTeams\Sistema_De_Semaforo\Sistema_De_Semaforo\bin\Debug\Sistema_De_Semaforo.exe
+C:\Users\Pedro\source\repos\LogicaComCsharp\ExercíciosTeams\Sistema_De_Semaforo\Sistema_De_Semaforo\bin\Debug\Sistema_De_Semaforo.pdb
+C:\Users\Pedro\source\repos\LogicaComCsharp\ExercíciosTeams\Sistema_De_Semaforo\Sistema_De_Semaforo\obj\Debug\Sistema_De_Semaforo.csproj.AssemblyReference.cache
+C:\Users\Pedro\source\repos\LogicaComCsharp\ExercíciosTeams\Sistema_De_Semaforo\Sistema_De_Semaforo\obj\Debug\Sistema_De_Semaforo.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\source\repos\LogicaComCsharp\ExercíciosTeams\Sistema_De_Semaforo\Sistema_De_Semaforo\obj\Debug\Sistema_De_Semaforo.exe
+C:\Users\Pedro\source\repos\LogicaComCsharp\ExercíciosTeams\Sistema_De_Semaforo\Sistema_De_Semaforo\obj\Debug\Sistema_De_Semaforo.pdb

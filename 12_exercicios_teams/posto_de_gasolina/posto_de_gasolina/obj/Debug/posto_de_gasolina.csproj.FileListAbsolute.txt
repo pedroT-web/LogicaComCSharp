@@ -1,0 +1,7 @@
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\LogicaComCSharp\12_exercicios_teams\posto_de_gasolina\posto_de_gasolina\bin\Debug\posto_de_gasolina.exe.config
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\LogicaComCSharp\12_exercicios_teams\posto_de_gasolina\posto_de_gasolina\bin\Debug\posto_de_gasolina.exe
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\LogicaComCSharp\12_exercicios_teams\posto_de_gasolina\posto_de_gasolina\bin\Debug\posto_de_gasolina.pdb
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\LogicaComCSharp\12_exercicios_teams\posto_de_gasolina\posto_de_gasolina\obj\Debug\posto_de_gasolina.csproj.AssemblyReference.cache
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\LogicaComCSharp\12_exercicios_teams\posto_de_gasolina\posto_de_gasolina\obj\Debug\posto_de_gasolina.csproj.CoreCompileInputs.cache
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\LogicaComCSharp\12_exercicios_teams\posto_de_gasolina\posto_de_gasolina\obj\Debug\posto_de_gasolina.exe
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\LogicaComCSharp\12_exercicios_teams\posto_de_gasolina\posto_de_gasolina\obj\Debug\posto_de_gasolina.pdb

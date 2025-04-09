@@ -1,0 +1,7 @@
+C:\Users\Pedro\source\repos\Treinos\Sistema_De_Semaforo_Facil\Sistema_De_Semaforo_Facil\bin\Debug\Sistema_De_Semaforo_Facil.exe.config
+C:\Users\Pedro\source\repos\Treinos\Sistema_De_Semaforo_Facil\Sistema_De_Semaforo_Facil\bin\Debug\Sistema_De_Semaforo_Facil.exe
+C:\Users\Pedro\source\repos\Treinos\Sistema_De_Semaforo_Facil\Sistema_De_Semaforo_Facil\bin\Debug\Sistema_De_Semaforo_Facil.pdb
+C:\Users\Pedro\source\repos\Treinos\Sistema_De_Semaforo_Facil\Sistema_De_Semaforo_Facil\obj\Debug\Sistema_De_Semaforo_Facil.csproj.AssemblyReference.cache
+C:\Users\Pedro\source\repos\Treinos\Sistema_De_Semaforo_Facil\Sistema_De_Semaforo_Facil\obj\Debug\Sistema_De_Semaforo_Facil.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\source\repos\Treinos\Sistema_De_Semaforo_Facil\Sistema_De_Semaforo_Facil\obj\Debug\Sistema_De_Semaforo_Facil.exe
+C:\Users\Pedro\source\repos\Treinos\Sistema_De_Semaforo_Facil\Sistema_De_Semaforo_Facil\obj\Debug\Sistema_De_Semaforo_Facil.pdb
