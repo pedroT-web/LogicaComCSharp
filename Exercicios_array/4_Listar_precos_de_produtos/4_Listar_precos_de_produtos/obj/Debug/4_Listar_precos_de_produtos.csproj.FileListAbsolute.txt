@@ -1,0 +1,7 @@
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\Exercicios_array\4_Listar_precos_de_produtos\4_Listar_precos_de_produtos\bin\Debug\4_Listar_precos_de_produtos.exe.config
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\Exercicios_array\4_Listar_precos_de_produtos\4_Listar_precos_de_produtos\bin\Debug\4_Listar_precos_de_produtos.exe
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\Exercicios_array\4_Listar_precos_de_produtos\4_Listar_precos_de_produtos\bin\Debug\4_Listar_precos_de_produtos.pdb
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\Exercicios_array\4_Listar_precos_de_produtos\4_Listar_precos_de_produtos\obj\Debug\4_Listar_precos_de_produtos.csproj.AssemblyReference.cache
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\Exercicios_array\4_Listar_precos_de_produtos\4_Listar_precos_de_produtos\obj\Debug\4_Listar_precos_de_produtos.csproj.CoreCompileInputs.cache
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\Exercicios_array\4_Listar_precos_de_produtos\4_Listar_precos_de_produtos\obj\Debug\4_Listar_precos_de_produtos.exe
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\Exercicios_array\4_Listar_precos_de_produtos\4_Listar_precos_de_produtos\obj\Debug\4_Listar_precos_de_produtos.pdb

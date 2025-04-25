@@ -1,14 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\pedro.atsantos2\\source\\repos\\Pokedex\\",
+  "WorkspaceRootPath": "C:\\Users\\pedro.atsantos2\\source\\repos\\LogicaComCSharp\\Pokedex\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3C5B8C8E-ADCF-4B1B-96B5-736C6A674DD2}|Pokedex\\Pokedex.csproj|c:\\users\\pedro.atsantos2\\source\\repos\\pokedex\\pokedex\\cadastrarpokemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3C5B8C8E-ADCF-4B1B-96B5-736C6A674DD2}|Pokedex\\Pokedex.csproj|c:\\users\\pedro.atsantos2\\source\\repos\\logicacomcsharp\\pokedex\\pokedex\\cadastrarpokemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3C5B8C8E-ADCF-4B1B-96B5-736C6A674DD2}|Pokedex\\Pokedex.csproj|solutionrelative:pokedex\\cadastrarpokemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3C5B8C8E-ADCF-4B1B-96B5-736C6A674DD2}|Pokedex\\Pokedex.csproj|c:\\users\\pedro.atsantos2\\source\\repos\\pokedex\\pokedex\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3C5B8C8E-ADCF-4B1B-96B5-736C6A674DD2}|Pokedex\\Pokedex.csproj|C:\\Users\\pedro.atsantos2\\source\\repos\\LogicaComCSharp\\Pokedex\\pokedex\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3C5B8C8E-ADCF-4B1B-96B5-736C6A674DD2}|Pokedex\\Pokedex.csproj|solutionrelative:pokedex\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C5B8C8E-ADCF-4B1B-96B5-736C6A674DD2}|Pokedex\\Pokedex.csproj|c:\\users\\pedro.atsantos2\\source\\repos\\logicacomcsharp\\pokedex\\pokedex\\listadecadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C5B8C8E-ADCF-4B1B-96B5-736C6A674DD2}|Pokedex\\Pokedex.csproj|solutionrelative:pokedex\\listadecadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,17 +22,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ListadeCadastro.cs",
+              "DocumentMoniker": "C:\\Users\\pedro.atsantos2\\source\\repos\\LogicaComCSharp\\Pokedex\\Pokedex\\ListadeCadastro.cs",
+              "RelativeDocumentMoniker": "Pokedex\\ListadeCadastro.cs",
+              "ToolTip": "C:\\Users\\pedro.atsantos2\\source\\repos\\LogicaComCSharp\\Pokedex\\Pokedex\\ListadeCadastro.cs",
+              "RelativeToolTip": "Pokedex\\ListadeCadastro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T11:13:09.304Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Cadastrarpokemon.cs",
-              "DocumentMoniker": "C:\\Users\\pedro.atsantos2\\source\\repos\\Pokedex\\Pokedex\\Cadastrarpokemon.cs",
+              "DocumentMoniker": "C:\\Users\\pedro.atsantos2\\source\\repos\\LogicaComCSharp\\Pokedex\\Pokedex\\Cadastrarpokemon.cs",
               "RelativeDocumentMoniker": "Pokedex\\Cadastrarpokemon.cs",
-              "ToolTip": "C:\\Users\\pedro.atsantos2\\source\\repos\\Pokedex\\Pokedex\\Cadastrarpokemon.cs",
-              "RelativeToolTip": "Pokedex\\Cadastrarpokemon.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAgwDUAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\pedro.atsantos2\\source\\repos\\LogicaComCSharp\\Pokedex\\Pokedex\\Cadastrarpokemon.cs*",
+              "RelativeToolTip": "Pokedex\\Cadastrarpokemon.cs*",
+              "ViewState": "AgIAACsAAAAAAAAAAAAgwEAAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-17T14:16:15.907Z",
               "EditorCaption": ""
@@ -37,11 +54,11 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\pedro.atsantos2\\source\\repos\\Pokedex\\Pokedex\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\pedro.atsantos2\\source\\repos\\LogicaComCSharp\\Pokedex\\Pokedex\\Program.cs",
               "RelativeDocumentMoniker": "Pokedex\\Program.cs",
-              "ToolTip": "C:\\Users\\pedro.atsantos2\\source\\repos\\Pokedex\\Pokedex\\Program.cs",
+              "ToolTip": "C:\\Users\\pedro.atsantos2\\source\\repos\\LogicaComCSharp\\Pokedex\\Pokedex\\Program.cs",
               "RelativeToolTip": "Pokedex\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAADMAAAAzAAAAAAAAAA==",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAWwDEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-17T13:33:04.521Z",
               "EditorCaption": ""

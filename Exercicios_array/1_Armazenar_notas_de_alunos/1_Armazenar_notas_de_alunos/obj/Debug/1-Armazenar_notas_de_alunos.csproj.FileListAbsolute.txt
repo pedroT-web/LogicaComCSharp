@@ -1,0 +1,7 @@
+C:\Users\pedro.atsantos2\source\repos\1-Armazenar_notas_de_alunos\1-Armazenar_notas_de_alunos\bin\Debug\1-Armazenar_notas_de_alunos.exe.config
+C:\Users\pedro.atsantos2\source\repos\1-Armazenar_notas_de_alunos\1-Armazenar_notas_de_alunos\bin\Debug\1-Armazenar_notas_de_alunos.exe
+C:\Users\pedro.atsantos2\source\repos\1-Armazenar_notas_de_alunos\1-Armazenar_notas_de_alunos\bin\Debug\1-Armazenar_notas_de_alunos.pdb
+C:\Users\pedro.atsantos2\source\repos\1-Armazenar_notas_de_alunos\1-Armazenar_notas_de_alunos\obj\Debug\1-Armazenar_notas_de_alunos.csproj.AssemblyReference.cache
+C:\Users\pedro.atsantos2\source\repos\1-Armazenar_notas_de_alunos\1-Armazenar_notas_de_alunos\obj\Debug\1-Armazenar_notas_de_alunos.csproj.CoreCompileInputs.cache
+C:\Users\pedro.atsantos2\source\repos\1-Armazenar_notas_de_alunos\1-Armazenar_notas_de_alunos\obj\Debug\1-Armazenar_notas_de_alunos.exe
+C:\Users\pedro.atsantos2\source\repos\1-Armazenar_notas_de_alunos\1-Armazenar_notas_de_alunos\obj\Debug\1-Armazenar_notas_de_alunos.pdb

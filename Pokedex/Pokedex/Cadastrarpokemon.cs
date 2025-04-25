@@ -12,6 +12,8 @@ namespace Pokedex
         // Função de cadastro de pokemons
         public static void pokemons()
         {
+
+
             Console.WriteLine(@"
 ░█████╗░░█████╗░██████╗░░█████╗░░██████╗████████╗██████╗░░█████╗░  ██████╗░███████╗
 ██╔══██╗██╔══██╗██╔══██╗██╔══██╗██╔════╝╚══██╔══╝██╔══██╗██╔══██╗  ██╔══██╗██╔════╝
@@ -54,7 +56,14 @@ namespace Pokedex
 
             Console.WriteLine("Pressione qualquer tecla para voltar");
             Console.ReadKey();
-            
+
+            Console.WriteLine("Pressione 0 para sair");
+            string sair = Console.ReadLine();
+
+            if( sair == "0")
+            {
+                return;
+            }
         }
     }
 }

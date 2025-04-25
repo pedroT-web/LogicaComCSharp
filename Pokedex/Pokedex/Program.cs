@@ -45,12 +45,38 @@ namespace Pokedex
                      Cadastrarpokemon.pokemons();
                      Console.Clear();
             }
+            else if (cadastrar == "0")
+            {
 
-            else if (cadastrar != "1")
+            }
+
+                else if (cadastrar != "1")
             {
                     Console.WriteLine("\n Pressione 1 para cadastrar");
                     cadastrar = Console.ReadLine(); 
             }
+                Console.WriteLine("Pressione qualquer tecla para voltar");
+                Console.ReadKey();
+
+                
+            }
+
+            Console.Clear();
+
+            if (cadastrar == "1")
+            {
+                for (int i = 0; i < nomePokemon.Length; i++)
+                {
+                    Console.Write(i);
+                    Console.Write("\t");
+                    Console.Write(nomePokemon[i]);
+                    Console.Write("\t\t");
+                    Console.Write(tipoPokemon[i]);
+                    Console.Write("\t\t");
+                    Console.Write(tamanhoPokemon[i]);
+                    Console.Write("\t\t");
+                    Console.WriteLine(pesoPokemon[i]);
+                }
             }
         }
      }

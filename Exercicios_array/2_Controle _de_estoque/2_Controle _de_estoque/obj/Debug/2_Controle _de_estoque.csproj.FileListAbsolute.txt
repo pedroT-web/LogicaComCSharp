@@ -1,0 +1,7 @@
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\Exercicios_array\2_Controle _de_estoque\2_Controle _de_estoque\bin\Debug\2_Controle _de_estoque.exe.config
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\Exercicios_array\2_Controle _de_estoque\2_Controle _de_estoque\bin\Debug\2_Controle _de_estoque.exe
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\Exercicios_array\2_Controle _de_estoque\2_Controle _de_estoque\bin\Debug\2_Controle _de_estoque.pdb
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\Exercicios_array\2_Controle _de_estoque\2_Controle _de_estoque\obj\Debug\2_Controle _de_estoque.csproj.AssemblyReference.cache
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\Exercicios_array\2_Controle _de_estoque\2_Controle _de_estoque\obj\Debug\2_Controle _de_estoque.csproj.CoreCompileInputs.cache
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\Exercicios_array\2_Controle _de_estoque\2_Controle _de_estoque\obj\Debug\2_Controle _de_estoque.exe
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\Exercicios_array\2_Controle _de_estoque\2_Controle _de_estoque\obj\Debug\2_Controle _de_estoque.pdb
