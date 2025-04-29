@@ -1,0 +1,7 @@
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\Exercicios_array\5_Armazenar_notas_de_votação\5_Armazenar_notas_de_votação\bin\Debug\5_Armazenar_notas_de_votação.exe.config
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\Exercicios_array\5_Armazenar_notas_de_votação\5_Armazenar_notas_de_votação\bin\Debug\5_Armazenar_notas_de_votação.exe
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\Exercicios_array\5_Armazenar_notas_de_votação\5_Armazenar_notas_de_votação\bin\Debug\5_Armazenar_notas_de_votação.pdb
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\Exercicios_array\5_Armazenar_notas_de_votação\5_Armazenar_notas_de_votação\obj\Debug\5_Armazenar_notas_de_votação.csproj.AssemblyReference.cache
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\Exercicios_array\5_Armazenar_notas_de_votação\5_Armazenar_notas_de_votação\obj\Debug\5_Armazenar_notas_de_votação.csproj.CoreCompileInputs.cache
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\Exercicios_array\5_Armazenar_notas_de_votação\5_Armazenar_notas_de_votação\obj\Debug\5_Armazenar_notas_de_votação.exe
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\Exercicios_array\5_Armazenar_notas_de_votação\5_Armazenar_notas_de_votação\obj\Debug\5_Armazenar_notas_de_votação.pdb
