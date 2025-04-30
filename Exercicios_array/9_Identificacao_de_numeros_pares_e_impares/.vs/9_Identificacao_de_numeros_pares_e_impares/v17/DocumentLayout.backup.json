@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pedro.atsantos2\\source\\repos\\LogicaComCSharp\\Exercicios_array\\9_Identificacao_de_numeros_pares_e_impares\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E3EEEB78-B326-41CC-BA3A-E0F9C6C11AD9}|9_Identificacao_de_numeros_pares_e_impares\\9_Identificacao_de_numeros_pares_e_impares.csproj|c:\\users\\pedro.atsantos2\\source\\repos\\logicacomcsharp\\exercicios_array\\9_identificacao_de_numeros_pares_e_impares\\9_identificacao_de_numeros_pares_e_impares\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3EEEB78-B326-41CC-BA3A-E0F9C6C11AD9}|9_Identificacao_de_numeros_pares_e_impares\\9_Identificacao_de_numeros_pares_e_impares.csproj|solutionrelative:9_identificacao_de_numeros_pares_e_impares\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pedro.atsantos2\\source\\repos\\LogicaComCSharp\\Exercicios_array\\9_Identificacao_de_numeros_pares_e_impares\\9_Identificacao_de_numeros_pares_e_impares\\Program.cs",
+              "RelativeDocumentMoniker": "9_Identificacao_de_numeros_pares_e_impares\\Program.cs",
+              "ToolTip": "C:\\Users\\pedro.atsantos2\\source\\repos\\LogicaComCSharp\\Exercicios_array\\9_Identificacao_de_numeros_pares_e_impares\\9_Identificacao_de_numeros_pares_e_impares\\Program.cs",
+              "RelativeToolTip": "9_Identificacao_de_numeros_pares_e_impares\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T12:20:28.267Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

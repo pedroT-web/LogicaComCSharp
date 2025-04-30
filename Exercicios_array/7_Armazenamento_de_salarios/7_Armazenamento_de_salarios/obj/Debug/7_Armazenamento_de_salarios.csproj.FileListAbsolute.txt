@@ -1,0 +1,7 @@
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\Exercicios_array\7_Armazenamento_de_salarios\7_Armazenamento_de_salarios\bin\Debug\7_Armazenamento_de_salarios.exe.config
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\Exercicios_array\7_Armazenamento_de_salarios\7_Armazenamento_de_salarios\bin\Debug\7_Armazenamento_de_salarios.exe
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\Exercicios_array\7_Armazenamento_de_salarios\7_Armazenamento_de_salarios\bin\Debug\7_Armazenamento_de_salarios.pdb
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\Exercicios_array\7_Armazenamento_de_salarios\7_Armazenamento_de_salarios\obj\Debug\7_Armazenamento_de_salarios.csproj.AssemblyReference.cache
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\Exercicios_array\7_Armazenamento_de_salarios\7_Armazenamento_de_salarios\obj\Debug\7_Armazenamento_de_salarios.csproj.CoreCompileInputs.cache
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\Exercicios_array\7_Armazenamento_de_salarios\7_Armazenamento_de_salarios\obj\Debug\7_Armazenamento_de_salarios.exe
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\Exercicios_array\7_Armazenamento_de_salarios\7_Armazenamento_de_salarios\obj\Debug\7_Armazenamento_de_salarios.pdb

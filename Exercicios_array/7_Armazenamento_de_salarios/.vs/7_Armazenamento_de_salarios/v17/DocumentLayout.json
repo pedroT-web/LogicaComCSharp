@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pedro.atsantos2\\source\\repos\\LogicaComCSharp\\Exercicios_array\\7_Armazenamento_de_salarios\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4E2A4C17-3A12-45D6-9DD8-E72831A94895}|7_Armazenamento_de_salarios\\7_Armazenamento_de_salarios.csproj|c:\\users\\pedro.atsantos2\\source\\repos\\logicacomcsharp\\exercicios_array\\7_armazenamento_de_salarios\\7_armazenamento_de_salarios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E2A4C17-3A12-45D6-9DD8-E72831A94895}|7_Armazenamento_de_salarios\\7_Armazenamento_de_salarios.csproj|solutionrelative:7_armazenamento_de_salarios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pedro.atsantos2\\source\\repos\\LogicaComCSharp\\Exercicios_array\\7_Armazenamento_de_salarios\\7_Armazenamento_de_salarios\\Program.cs",
+              "RelativeDocumentMoniker": "7_Armazenamento_de_salarios\\Program.cs",
+              "ToolTip": "C:\\Users\\pedro.atsantos2\\source\\repos\\LogicaComCSharp\\Exercicios_array\\7_Armazenamento_de_salarios\\7_Armazenamento_de_salarios\\Program.cs",
+              "RelativeToolTip": "7_Armazenamento_de_salarios\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T11:47:14.15Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
